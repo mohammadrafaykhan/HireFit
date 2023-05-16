@@ -10,7 +10,8 @@ RED_THRESHOLD = 1.5
 GREEN_THRESHOLD = 1.5
 BLUE_THRESHOLD = 1.5
 MIN_OBJECT_SIZE = 50000 # minimum size for the object to be detected
-
+left_speed = 0 #initilaising speeds
+right_speed = 0
 
 
 # Initialize the robot
