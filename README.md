@@ -4,12 +4,10 @@ Overview
 This project is an AI-powered CV regeneration tool designed to help job seekers optimize their CVs for specific job descriptions. The tool analyzes the user's CV, compares it with the job description, regenerates relevant sections for better alignment, calculates ATS scores, and provides interview preparation notes to enhance the applicant's chances of success.
 
 Features
-CV Regeneration: Tailors CV content to match the job description provided.
-ATS Score Calculation: Calculates initial and updated ATS (Applicant Tracking System) scores to measure the CV’s alignment with the job description.
-Interview Preparation: Generates a list of topics for interview preparation based on changes between the original and regenerated CV.
-Downloadable PDF: Provides an option to download the regenerated CV as a PDF file.
-Demo
-You can try the live demo on your local machine by running the app using Gradio.
+1) CV Regeneration: Tailors CV content to match the job description provided.
+2) ATS Score Calculation: Calculates initial and updated ATS (Applicant Tracking System) scores to measure the CV’s alignment with the job description.
+3) Interview Preparation: Generates a list of topics for interview preparation based on changes between the original and regenerated CV.
+4) Downloadable PDF: Provides an option to download the regenerated CV as a PDF file.
 
 How It Works
 1) Upload Your CV: Upload a PDF version of your CV.
