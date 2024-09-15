@@ -1,0 +1,5 @@
+gradio
+openai
+PyPDF2
+python-docx
+fpdf
